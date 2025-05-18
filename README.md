@@ -49,5 +49,8 @@ It combines essential admin tasks into one centralized, user-friendly tool.
 
 ```bash
 chmod +x admin_toolkit.sh
-./admin_toolkit.sh
+```
+
+```bash
+./admin_tool_list.sh
 ```
