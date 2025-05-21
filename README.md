@@ -48,9 +48,9 @@ It combines essential admin tasks into one centralized, user-friendly tool.
 #### How to Run:
 
 ```bash
-chmod +x admin_toolkit.sh
+chmod +x aadmin_tool_list.sh
 ```
 
 ```bash
-./admin_toolkit.sh
+./aadmin_tool_list.sh
 ```
