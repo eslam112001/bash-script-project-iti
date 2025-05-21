@@ -52,5 +52,5 @@ chmod +x admin_toolkit.sh
 ```
 
 ```bash
-./admin_tool_list.sh
+./admin_toolkit.sh
 ```
